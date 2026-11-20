@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Denim Jacket",
+      "description": "A stylish blue denim jacket perfect for everyday wear.",
+      "price": 3500,
+      "category": "Women",
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=500"
+    },
+    {
+      "id": "2",
+      "name": "Casual White Sneakers",
+      "description": "Comfortable everyday sneakers with a minimalist design.",
+      "price": 4200,
+      "category": "Men",
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+    },
+    {
+      "id": "3",
+      "name": "Summer Floral Dress",
+      "description": "A beautiful floral dress for warm sunny days.",
+      "price": 2800,
+      "category": "Women",
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500"
+    },
+    {
+      "id": "4",
+      "name": "Cotton Hoodie",
+      "description": "A comfortable cotton hoodie for casual outfits.",
+      "price": 2500,
+      "category": "Men",
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500"
+    }
+  ]
+}
